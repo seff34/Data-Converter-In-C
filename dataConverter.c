@@ -3,8 +3,7 @@
 #include <stdlib.h>
 #include <limits.h>
 
-typedef struct
-{
+typedef struct{
     uint8_t byte0;
     uint8_t byte1;
     uint8_t byte2;
