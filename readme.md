@@ -8,7 +8,7 @@ Big Data to Low Data in C Standart Libs.
 ## API Functions
 
 #### Data Structure
-```http
+```c
 typedef struct{
     uint8_t byte0;
     uint8_t byte1;
@@ -20,7 +20,7 @@ typedef struct{
 
 
 #### Data Converter
-```http
+```c
 int8_t dataConverter32(int32_t input, data32_t *output);
 ```
 
