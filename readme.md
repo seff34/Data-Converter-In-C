@@ -5,7 +5,7 @@ Big Data to Low Data in C Standart Libs.
 
 
 
-## API Functions
+## Functions
 
 #### Data Structure
 ```c
